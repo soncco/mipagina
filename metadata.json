@@ -1,0 +1,7 @@
+{
+  "name": "Braulio Soncco - Concierto 10 Años",
+  "description": "Una landing page elegante y persuasiva para el concierto del artista cusqueño Braulio Soncco, celebrando 10 años de música latinoamericana.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
